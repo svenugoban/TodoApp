@@ -10,11 +10,10 @@ TodoApp/
 └── server/   Express API and MySQL persistence
 ```
 
-## Prerequisites
+## Prerequisite
 
 - Node.js and npm
 - MySQL Server
-
 ## Quick Start
 
 1. Create the database and table by running [`server/config/databasemigration.sql`](server/config/databasemigration.sql) in MySQL Workbench or another MySQL client.
